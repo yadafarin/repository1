@@ -1,2 +1,3 @@
-var AdmZip = require('adm-zip'), zip = new AdmZip("./zip.zip");
-zip.extractAllTo("./", true);
+  app.get('/', function(req, res) {
+    res.send("ssssss");
+  });
